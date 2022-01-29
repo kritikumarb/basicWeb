@@ -1,2 +1,2 @@
 # basicWeb
-A basic web app.
+A basic web site which help us to begin our website devlopement carrier
